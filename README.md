@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# tenup-detached-sigs
